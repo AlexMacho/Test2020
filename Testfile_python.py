@@ -1,0 +1,2 @@
+#TEST
+print("Test text")
